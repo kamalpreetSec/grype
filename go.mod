@@ -156,7 +156,7 @@ require (
 	github.com/jinzhu/now v1.1.5 // indirect
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
 	github.com/kastenhq/goversion v0.0.0-20230811215019-93b2f8823953 // indirect
-	github.com/kevinburke/ssh_config v1.2.0 // indirect
+	github.com/kevinburke/ssh_config v5.11 // indirect
 	github.com/klauspost/compress v1.17.8 // indirect
 	github.com/klauspost/pgzip v1.2.5 // indirect
 	github.com/knqyf263/go-rpmdb v0.1.1 // indirect
